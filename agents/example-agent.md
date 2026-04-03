@@ -1,5 +1,3 @@
-<!--
-
 ---
 name: test-specialist
 description: Focuses on test coverage, quality, and testing best practices without modifying production code
